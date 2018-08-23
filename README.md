@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/jaygel179/smshelper.js.svg?branch=master)](https://travis-ci.org/jaygel179/smshelper.js)
+[![Coverage Status](https://coveralls.io/repos/github/jaygel179/smshelper.js/badge.svg)](https://coveralls.io/github/jaygel179/smshelper.js)
 
 SMS Helper
 ==========
