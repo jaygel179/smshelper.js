@@ -23,7 +23,7 @@ Requirements
 Usage
 -----
 ```javascript
-const SmsHelper = require('smshelper')
+const SMSHelper = require('smshelper')
 
 SMSHelper.count('Sample message.')
 // 15
