@@ -1,0 +1,30 @@
+{
+  "name": "smshelper",
+  "version": "0.1.0",
+  "description": "SMS tool that can help you properly count the length of an SMS, calculate the parts and what encoding it is.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaygel179/smshelper.js.git"
+  },
+  "keywords": [
+    "sms",
+    "smshelper",
+    "sms-helper",
+    "smscounter",
+    "sms-counter"
+  ],
+  "author": "Elpedio C. Adoptante Jr. <adoptante.elpedio@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaygel179/smshelper.js/issues"
+  },
+  "homepage": "https://github.com/jaygel179/smshelper.js#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
